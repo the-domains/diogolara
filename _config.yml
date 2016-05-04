@@ -1,0 +1,28 @@
+name: diogolara
+favicon: null
+layout_spectrum: 0.9233201693277806
+typography_spectrum: 0.3842652786988765
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.4994078120216727
+  lightness: 0.37620325898751616
+  saturation: 0.8464423276018351
+  rhythmicContrast: 0.3364079419989139
+purpose: []
