@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Diogo Lara, psiquiatra e neurocientista'
-datePublished: '2016-05-04T00:51:09.355Z'
-dateModified: '2016-05-04T00:48:52.571Z'
+datePublished: '2016-05-04T01:04:12.631Z'
+dateModified: '2016-05-04T01:04:04.149Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-04-diogo-lara-psiquiatra-e-neurocientista.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-04-diogo-lara-psiquiatra-e-neurocientista.md
-published: true
 url: diogo-lara-psiquiatra-e-neurocientista/index.html
 _type: Article
 
